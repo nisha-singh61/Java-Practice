@@ -11,6 +11,7 @@ public class NotOperator {
         }
         else{
             System.out.println("Pass");
+
         }
     }
 }
