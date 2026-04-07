@@ -8,7 +8,7 @@ public class AsciiValueExample {
         char c = 'a';
         char bb = 'k';
 
-        System.out.println(c);
-        System.out.println((int)c);
+        System.out.println(c);       //prints a
+        System.out.println((int)c);   //prints ascii value of a
     }
 }
