@@ -27,5 +27,7 @@ public class DataTypes {
 
         boolean flag = true;
         System.out.println(flag);
+
+        System.out.println("----------------------------------------------");
     }
 }
